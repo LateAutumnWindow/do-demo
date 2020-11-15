@@ -1,0 +1,7 @@
+server:
+  port: 8877
+spring:
+  rabbitmq:
+    host: 192.168.1.180
+    username: admin
+    password: 123
