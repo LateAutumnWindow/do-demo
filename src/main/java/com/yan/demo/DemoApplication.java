@@ -10,4 +10,5 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
     }
     public void test1(){};
+    public void test2(){};
 }
